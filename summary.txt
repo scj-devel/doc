@@ -1,0 +1,23 @@
+This is the start for the CJ4ES final report.
+
+The aim of this project was to develop a prototype development environment
+and platform for safety-critical software for embedded applications.
+The three core constituents are: (1) a profile of the Java programming
+language that is tailored for safety-critical applications,
+(2) a predictable Java processor built with FPGA technology,
+and (3) an Eclipse based application development environment that
+binds the profile and the platform together and provides analyses
+that supports a safety case. Within the CJ4ES project we have
+contributed to all three topics:
+
+A Java programming profile for safety-critical applcations
+
+
+A predictable Java processor
+
+ JOP - about SCJ adapted, 
+
+
+An Eclipse based application development environment
+
+Eclipse with libraries, AAU tools?
